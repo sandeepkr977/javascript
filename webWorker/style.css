@@ -1,0 +1,31 @@
+ body {
+     padding: 0;
+     margin: 0;
+     color: #0a5b62;
+ }
+ 
+ .wrapper {
+     width: 80%;
+     margin: auto;
+ }
+ 
+ table tr:hover {
+     cursor: pointer;
+ }
+ 
+ table td {
+     border-top: 1px solid #8ce7ff;
+     padding: 2px 5px;
+ }
+ 
+ table {
+     border-bottom: 1px solid #8ce7ff;
+ }
+ 
+ table tr {
+     background: #d7feff66;
+ }
+ 
+ .dataTable {
+     margin: 20px 0px;
+ }
