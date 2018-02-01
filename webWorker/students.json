@@ -1,0 +1,14 @@
+[
+    { "name": "sandeep", "age": 24, "mobileNo": 7895468213 },
+    { "name": "monika", "age": 24, "mobileNo": 8895741235 },
+    { "name": "anmol", "age": 23, "mobileNo": 9865741236 },
+    { "name": "radhika", "age": 24, "mobileNo": 9875462134 },
+    { "name": "rahul", "age": 25, "mobileNo": 7845258963 },
+    { "name": "manoj", "age": 25, "mobileNo": 7895468213 },
+    { "name": "kuldeep", "age": 24, "mobileNo": 7895468213 },
+    { "name": "monalisa", "age": 22, "mobileNo": 7895468213 },
+    { "name": "sonali", "age": 24, "mobileNo": 7895468213 },
+    { "name": "ankush", "age": 23, "mobileNo": 7895468213 },
+    { "name": "vijay", "age": 30, "mobileNo": 7895468213 },
+    { "name": "sanjeev", "age": 29, "mobileNo": 7895468213 }
+]
